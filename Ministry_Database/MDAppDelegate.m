@@ -27,7 +27,7 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     // Insert code here to initialize your application
-    [self.helloWorldLabel setStringValue:@"Hello World"];
+    [self.helloWorldLabel setStringValue:@"Hello World-1"];
 }
 
 /**

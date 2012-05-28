@@ -36,20 +36,20 @@
 		E74551C71573CBF60034D922 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		E74551C81573CBF60034D922 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		E74551C91573CBF60034D922 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		E74551CC1573CBF60034D922 /* Ministry_Database-Info.plist */ = {isa = PBXFileReference; path = "Ministry_Database-Info.plist"; sourceTree = "<group>"; };
+		E74551CC1573CBF60034D922 /* Ministry_Database-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ministry_Database-Info.plist"; sourceTree = "<group>"; };
 		E74551CE1573CBF60034D922 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E74551D01573CBF60034D922 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E74551D21573CBF60034D922 /* Ministry_Database-Prefix.pch */ = {isa = PBXFileReference; path = "Ministry_Database-Prefix.pch"; sourceTree = "<group>"; };
+		E74551D21573CBF60034D922 /* Ministry_Database-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Ministry_Database-Prefix.pch"; sourceTree = "<group>"; };
 		E74551D41573CBF60034D922 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		E74551D61573CBF60034D922 /* MDAppDelegate.h */ = {isa = PBXFileReference; path = MDAppDelegate.h; sourceTree = "<group>"; };
+		E74551D61573CBF60034D922 /* MDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MDAppDelegate.h; sourceTree = "<group>"; };
 		E74551D71573CBF60034D922 /* MDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MDAppDelegate.m; sourceTree = "<group>"; };
 		E74551DA1573CBF60034D922 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		E74551DD1573CBF60034D922 /* Ministry_Database.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Ministry_Database.xcdatamodel; sourceTree = "<group>"; };
 		E74551E41573CBF60034D922 /* Ministry_DatabaseTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Ministry_DatabaseTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E74551E51573CBF60034D922 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		E74551EC1573CBF60034D922 /* Ministry_DatabaseTests-Info.plist */ = {isa = PBXFileReference; path = "Ministry_DatabaseTests-Info.plist"; sourceTree = "<group>"; };
+		E74551EC1573CBF60034D922 /* Ministry_DatabaseTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ministry_DatabaseTests-Info.plist"; sourceTree = "<group>"; };
 		E74551EE1573CBF60034D922 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		E74551F01573CBF60034D922 /* Ministry_DatabaseTests.h */ = {isa = PBXFileReference; path = Ministry_DatabaseTests.h; sourceTree = "<group>"; };
+		E74551F01573CBF60034D922 /* Ministry_DatabaseTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ministry_DatabaseTests.h; sourceTree = "<group>"; };
 		E74551F11573CBF60034D922 /* Ministry_DatabaseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ministry_DatabaseTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

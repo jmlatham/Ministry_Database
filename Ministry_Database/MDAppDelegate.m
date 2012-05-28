@@ -9,6 +9,7 @@
 #import "MDAppDelegate.h"
 
 @implementation MDAppDelegate
+@synthesize helloWorldLabel = _helloWorldLabel;
 
 @synthesize window = _window;
 @synthesize persistentStoreCoordinator = __persistentStoreCoordinator;
@@ -26,6 +27,7 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     // Insert code here to initialize your application
+    [self.helloWorldLabel setStringValue:@"Hello World"];
 }
 
 /**
